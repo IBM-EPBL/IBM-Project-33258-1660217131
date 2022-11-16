@@ -1,9 +1,11 @@
-# IBM-Project-33258-1660217131
-News Tracker Application
+### :man_technologist: **News Tracker Application**
 
-Team leader :
-Dinesh Karthick V
-Team members :
-Ajith kumar M
-Bharathipriyan B
-Dhanrajprabu V
+--> As our lives are very busy these days, we often feel we need more than 24 hrs. a day to cope up with everything we have in our schedule. Well, that's not possible but reducing the time by changing the conventional method of reading news can help. Just tell us what market news you're interested in and get a quick peek for the day. Only read what you feel is relevant and save your time. This app helps you to query for all information about Indices, Commodities, Currencies, Future Rates, Bonds, etc.… as on official websites.
+
+:computer: Team Leader -
+- [Dinesh Karthick V](https://github.com/IBM-EPBL/IBM-Project-33258-1660217131/tree/master/ASSIGNMENT/Dinesh_Karthick%20V)
+
+Team Members -
+- [Dhanrajprabu V](https://github.com/IBM-EPBL/IBM-Project-2022-1658423785/tree/master/ASSIGNMENT/Dhanrajprabu%20V) <br>
+- [Bharathipriyan B](https://github.com/IBM-EPBL/IBM-Project-2022-1658423785/tree/master/ASSIGNMENT/Bharathipriyan%20B) <br>
+- [Ajithkumar M](https://github.com/IBM-EPBL/IBM-Project-2022-1658423785/tree/master/ASSIGNMENT/Ajithkumar%20M) <br>
