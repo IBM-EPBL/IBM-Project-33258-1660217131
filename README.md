@@ -1,6 +1,6 @@
 ### :man_technologist: **News Tracker Application**
-
---> As our lives are very busy these days, we often feel we need more than 24 hrs. a day to cope up with everything we have in our schedule. Well, that's not possible but reducing the time by changing the conventional method of reading news can help. Just tell us what market news you're interested in and get a quick peek for the day. Only read what you feel is relevant and save your time. This app helps you to query for all information about Indices, Commodities, Currencies, Future Rates, Bonds, etc.… as on official websites.
+Hii !! 
+Nowadays the peoples are very busy in their work . They are not having much time to read the newspapers and gaining the information from the newspaper ,magazines etc.This application which was helpful to the people to gain information through the mobile phones they can news about many domains like politics , sports ,technologies  etc.
 
 :computer: Team Leader -
 - [Dinesh Karthick V](https://github.com/IBM-EPBL/IBM-Project-33258-1660217131/tree/main/ASSIGNMENT/Dinesh_Karthick%20V)
